@@ -10,7 +10,7 @@ This repo is about the chatbot model with seq2seq. <br>
          adjust the max length of sentences<br>
          adjust teacher force ratio<br>
          reduce hidden layers <br>
-         save and load best model<br>
+         save and load best model<br> 
 <em><b>Visualization</b> </em>of the loss:<br>
 <img align='center' style="border-color:gray;border-width:2px;border-style:dashed"  src="loss.png" width = "600px" height="300px" ></img>
 
